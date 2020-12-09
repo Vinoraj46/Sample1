@@ -1,2 +1,2 @@
 # Sample1
-test
+Hello, welcome to Github. This is a simple sample commit. Thanks.
