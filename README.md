@@ -1,2 +1,2 @@
 # Sample1
-This is a simple sample project.
+Hello, welcome to Github. This is a simple sample commit. Thanks.
