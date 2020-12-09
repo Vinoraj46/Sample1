@@ -1,2 +1,2 @@
 # Sample1
-test
+This is a simple sample project.
